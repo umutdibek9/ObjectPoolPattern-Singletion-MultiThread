@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\YazılımTasarımKalıpları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\YazılımTasarımKalıpları.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\YazılımTasarımKalıpları.AssemblyInfo.cs
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\YazılımTasarımKalıpları.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\bin\Debug\net5.0\YazılımTasarımKalıpları.exe
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\bin\Debug\net5.0\YazılımTasarımKalıpları.deps.json
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\bin\Debug\net5.0\YazılımTasarımKalıpları.runtimeconfig.json
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\bin\Debug\net5.0\YazılımTasarımKalıpları.runtimeconfig.dev.json
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\bin\Debug\net5.0\YazılımTasarımKalıpları.dll
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\bin\Debug\net5.0\ref\YazılımTasarımKalıpları.dll
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\bin\Debug\net5.0\YazılımTasarımKalıpları.pdb
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\YazılımTasarımKalıpları.dll
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\ref\YazılımTasarımKalıpları.dll
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\YazılımTasarımKalıpları.pdb
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\YazılımTasarımKalıpları.genruntimeconfig.cache
+C:\Users\HP\source\repos\YazılımTasarımKalıpları\YazılımTasarımKalıpları\obj\Debug\net5.0\YazılımTasarımKalıpları.csproj.AssemblyReference.cache

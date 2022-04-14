@@ -1,0 +1,35 @@
+	
+@startuml Hello
+abstract        Client
+class           ClientPool
+class       RequestClient
+Client *- RequestClient
+
+Client <-ClientPool
+
+class Client {
+ 
+}
+class RequestClient {
+ +Connect()
+}
+
+class ClientPool {
+ +Size
+ +TotalObject
+ +Instance
+ -instance
+ -defaultSize
+ -_bag
+ -_currentSize
+ -_counter
+ -_lockObject
+ -ClientPool()
+ +AcquireObject()
+ +ReleaseObject()
+ +IncreaseSize()
+ +getSize()
+}
+
+
+@enduml
